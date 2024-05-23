@@ -1,4 +1,4 @@
-export const host="https://chat-app-e6d5.onrender.com";
+export const host="https://chat-app-1-i3ak.onrender.com";
 export const registerRoute=`${host}/api/auth/register`;
 export const loginRoute=`${host}/api/auth/login`;
 export const setAvatarRoute=`${host}/api/auth/setAvatar`;
